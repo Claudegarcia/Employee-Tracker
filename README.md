@@ -12,13 +12,13 @@ App allows the user to:
 
 INITIAL CHOICES PROMPT
 
-![CHOICES](./assets/images/choices.PNG)
+![CHOICES](./assets/images/choices.png)
 
 DEPARTMENTS
-![DEPARTMENTS](./assets/images/departments.PNG)
+![DEPARTMENTS](./assets/images/departments.png)
 
 EMPLOYEES
-![EMPLOYEES](./assets/images/employees.PNG)
+![EMPLOYEES](./assets/images/employees.png)
 
 ROLES
-![ROLES](./assets/images/roles.PNG)
+![ROLES](./assets/images/roles.png)
