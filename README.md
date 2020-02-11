@@ -15,10 +15,13 @@ INITIAL CHOICES PROMPT
 ![CHOICES](./assets/images/choices.png)
 
 DEPARTMENTS
+
 ![DEPARTMENTS](./assets/images/departments.png)
 
 EMPLOYEES
+
 ![EMPLOYEES](./assets/images/employees.png)
 
 ROLES
+
 ![ROLES](./assets/images/roles.png)
